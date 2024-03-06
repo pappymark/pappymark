@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on webb developing
 - 📫 How to reach me just dm me
 - 😄 Pronouns: null
-- ⚡ Fun fact: i can be a lion or a kiity depends on environment that sourounds me. meow 
+- ⚡ Fun fact: i can be a lion or a kiity depends on environment that surrounds me. meow 
 
 <!---
 pappymark/pappymark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
